@@ -20,7 +20,7 @@ Pking: Ep/E >      1.0
 ikk               15  elastic nucleon model                              
 iout               2                                                     
 idut              13 elastic d2 model: 0=old, 11,12,13,14=Ulmar(below    
-inel_model         4  inelastc 4=new; 0=ineft(Bodek);9,12=Stuart+F2Glob etc.
+inel_model         0  inelastc 4=new; 0=ineft(Bodek);9,12=Stuart+F2Glob etc.
 pauli_model        1  0= old stein model; 1=tsai model; 2 no suppression
 Nuc Tail Method    1  0=No cos(theta_k) integration;  1= cos(th_k) integration
 Nuc FormFac Mdl    1  0=Shell,Gauss, 1=Hicks for Si28 and O16
