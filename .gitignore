@@ -2,3 +2,7 @@
 make_grid
 make_rc_dat
 externals_2017
+*.inp
+*.dat
+*.out 
+*.*~
